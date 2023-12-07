@@ -1,1 +1,5 @@
+pickle
+statsmodels
+plotly
+arch
 
